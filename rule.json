@@ -1,0 +1,144 @@
+{
+  "day": {
+    "blue": {
+      "ceiling": 7,
+      "specified_time": [
+        {
+          "step": 60,
+          "start_at": "19:00:00",
+          "ceiling": -1,
+          "unit_price": 2,
+          "end_at": "21:00:00"
+        },
+        {
+          "step": 600,
+          "start_at": "21:00:00",
+          "ceiling": -1,
+          "unit_price": 5,
+          "end_at": "07:00:00"
+        }
+      ],
+      "step": 30,
+      "unit_price": 0,
+      "minute_starts": 0,
+      "free_minute": 0,
+      "pricing_starts": 0
+    },
+    "is_army_auto": false,
+    "is_add": true,
+    "yellow": {
+      "ceiling": 7,
+      "specified_time": [
+        {
+          "step": 60,
+          "start_at": "19:00:00",
+          "ceiling": -1,
+          "unit_price": 2,
+          "end_at": "21:00:00"
+        },
+        {
+          "step": 600,
+          "start_at": "21:00:00",
+          "ceiling": -1,
+          "unit_price": 5,
+          "end_at": "07:00:00"
+        }
+      ],
+      "step": 30,
+      "unit_price": 0,
+      "minute_starts": 0,
+      "free_minute": 0,
+      "pricing_starts": 0
+    }
+  },
+  "temp": {
+    "blue": {
+      "ceiling": 15,
+      "specified_time": [
+        {
+          "step": 60,
+          "start_at": "19:00:00",
+          "ceiling": -1,
+          "unit_price": 2,
+          "end_at": "21:00:00"
+        },
+        {
+          "step": 600,
+          "start_at": "21:00:00",
+          "ceiling": -1,
+          "unit_price": 5,
+          "end_at": "07:00:00"
+        }
+      ],
+      "step": 60,
+      "unit_price": 0.5,
+      "minute_starts": 0,
+      "free_minute": 30,
+      "pricing_starts": 0
+    },
+    "is_army_auto": false,
+    "is_add": true,
+    "yellow": {
+      "ceiling": 15,
+      "specified_time": [
+        {
+          "step": 60,
+          "start_at": "19:00:00",
+          "ceiling": -1,
+          "unit_price": 2,
+          "end_at": "21:00:00"
+        },
+        {
+          "step": 600,
+          "start_at": "21:00:00",
+          "ceiling": -1,
+          "unit_price": 5,
+          "end_at": "07:00:00"
+        }
+      ],
+      "step": 60,
+      "unit_price": 0.5,
+      "minute_starts": 0,
+      "free_minute": 30,
+      "pricing_starts": 0
+    }
+  },
+  "night": {
+    "blue": {
+      "ceiling": 6,
+      "specified_time": [
+        {
+          "step": 60,
+          "start_at": "07:00:00",
+          "ceiling": -1,
+          "unit_price": 0.5,
+          "end_at": "19:00:00"
+        }
+      ],
+      "step": 60,
+      "unit_price": 0,
+      "minute_starts": 0,
+      "free_minute": 0,
+      "pricing_starts": 0
+    },
+    "is_army_auto": false,
+    "is_add": true,
+    "yellow": {
+      "ceiling": 6,
+      "specified_time": [
+        {
+          "step": 60,
+          "start_at": "07:00:00",
+          "ceiling": -1,
+          "unit_price": 0.5,
+          "end_at": "19:00:00"
+        }
+      ],
+      "step": 60,
+      "unit_price": 0,
+      "minute_starts": 0,
+      "free_minute": 0,
+      "pricing_starts": 0
+    }
+  }
+}
