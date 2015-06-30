@@ -10,7 +10,7 @@ import datetime
 import string
 import binascii
 from xml.etree.ElementTree import ElementTree
-from models import ecoupon, payrecord, plusconf, cards, schedules, tmprecords
+# from models import ecoupon, payrecord, plusconf, cards, schedules, tmprecords
 # from mails import fn_timer
 
 
